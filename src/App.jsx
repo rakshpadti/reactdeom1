@@ -1176,7 +1176,7 @@ export default function App() {
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
 
-  const PAGE = { Home, About, Services, Portfolio, Contact };
+ const PAGE = { Home, About, Services, Portfolio, Help, Contact };
   const PageComponent = PAGE[activePage];
 
   return (
