@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { PORTFOLIO_ITEMS } from "../data/data";
+import { PORTFOLIO_ITEMS } from "../data/data.js";
 
 /* Helpers (same as your code) */
 function GoldDivider() {

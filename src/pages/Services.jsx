@@ -1,7 +1,6 @@
 import GoldDivider from "../components/GoldDivider";
 import SectionLabel from "../components/SectionLabel";
-import { SERVICES } from "../data/data";
-
+import { SERVICES } from "../data/data.js";
 export default function Services({ setActivePage }) {
   return (
     <div className="bg-[#F5EDD6] pt-28">

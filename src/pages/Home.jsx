@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import GoldDivider from "../components/GoldDivider";
 import SectionLabel from "../components/SectionLabel";
-import { TESTIMONIALS, PORTFOLIO_ITEMS } from "../data/data";
+import { TESTIMONIALS, PORTFOLIO_ITEMS } from "../data/data.js";
 
 export default function Home({ setActivePage }) {
   const [activeTestimonial, setActiveTestimonial] = useState(0);
