@@ -1,6 +1,6 @@
 import GoldDivider from "../components/GoldDivider";
 import SectionLabel from "../components/SectionLabel";
-import { TIMELINE } from "../data/data";
+import { TIMELINE } from "../data/data.js";
 
 export default function About() {
   return (

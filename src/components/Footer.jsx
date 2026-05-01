@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
-import { NAV_LINKS } from "../data/data";
-
+import { NAV_LINKS } from "../data/data.js";
 export default function Footer() {
   return (
     <footer className="bg-[#0D0B08] border-t border-[#C9A84C]/10 py-16 px-6">
