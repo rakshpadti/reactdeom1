@@ -1,3 +1,4 @@
+//updated
 // src/data/data.js
 
 export const NAV_LINKS = ["Home", "About", "Services", "Portfolio", "Help", "Contact"];
